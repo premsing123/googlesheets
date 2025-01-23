@@ -124,7 +124,7 @@ model = pipeline("text-generation", model="gpt2")
 
 For any queries or feedback, feel free to reach out:
 
-**Munna Reddy**  
+**premsing**  
 -Email: premsing.venkat@campusuvce.in
 -GitHub: (https://github.com/premsing123)
 
